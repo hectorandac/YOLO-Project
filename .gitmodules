@@ -4,3 +4,6 @@
 [submodule "YOLOv8"]
 	path = YOLOv8
 	url = git@github.com:mikel-brostrom/yolov8_tracking.git
+[submodule "YOLOv6"]
+	path = YOLOv6
+	url = git@github.com:hectorandac/YOLOv6.git
